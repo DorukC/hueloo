@@ -1,0 +1,39 @@
+<ApplicationPackageLicenses>
+    <ApplicationPackageLicense>
+        <CompanyName>Doruk COSKUN</CompanyName>
+        <LicenseName>HueLoo</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>05.01.2016 12:00:27</CreateDate>
+        <ExpireDate>04.01.2026 12:00:27</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>iOS</PackageType>
+        <PackageName>io.smartface.hueloo</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>wRVQsEzExXcwkCI8speSKaM46AwTEcSf7UYQaY81UEaYb5fiKpAH59VDjgdRntNunumga4BXDpdfsErLxwUS+MLJzu26ufStMQJuRZpjG8Yl/QfRHSn1BN/+TfwFzRLWS91FMUcR/CBuQZ7rYNF+hJ4ZNKwOojiveoM0WfgEvIAA</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <ApplicationPackageLicense>
+        <CompanyName>Doruk COSKUN</CompanyName>
+        <LicenseName>HueLoo</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>05.01.2016 12:00:27</CreateDate>
+        <ExpireDate>04.01.2026 12:00:27</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>Android</PackageType>
+        <PackageName>io.smartface.hueloo</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>wRVQsEzExXcwkCI8speSKaM46AwTEcSf7UYQaY81UEaYb5fiKpAH59VDjgdRntNunumga4BXDpdfsErLxwUS+MLJzu26ufStMQJuRZpjG8Yl/QfRHSn1BN/+TfwFzRLWS91FMUcR/CBuQZ7rYNF+hJ4ZNKwOojiveoM0WfgEvIAA</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <TripleDESKeyValue>UxAm9hmOajJIsEiNU1HR7hS/7rcLiL3F</TripleDESKeyValue>
+</ApplicationPackageLicenses>
